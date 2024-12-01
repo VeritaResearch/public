@@ -19,7 +19,7 @@ We believe in processes for arriving at truth, like peer-review and the scientif
 
 ## The criticality of human oversight
 
-AI is a tool, not a replacement for human judgment. Any and all information we release through official channels undergoes human review.
+AI is a tool, not a replacement for human judgment. Any and all information that we can human review, we do.
 
 ## Transparency about our mistakes
 
