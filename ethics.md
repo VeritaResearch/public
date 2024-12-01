@@ -9,7 +9,7 @@ We will never build an AI system that undermines data privacy or produces output
 
 ## Nonpartisanship
 
-We (Andrew and Joao) have our own personal, political affiliations. But as an organization (Verita Research), we aim to be nonpartisan, impartial, and unbiased about the information we release.
+We (Andrew and Joao) have our own personal, political beliefs. But as an organization (Verita Research), we aim to be nonpartisan, impartial, and unbiased about the information we release.
 
 ## We are not the arbiters of truth
 
