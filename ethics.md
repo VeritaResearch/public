@@ -23,6 +23,6 @@ AI is a tool, not a replacement for human judgment. Any and all information that
 
 ## Transparency about our mistakes
 
-We do not claim to be perfect. Further, the landscape of misinformation is constantly evolving.
+We do not claim to be perfect.
 
 We promise to always be transparent about the errors we commit and the mistakes we make, especially in the event we accidentally disseminate misinformation of our own.
