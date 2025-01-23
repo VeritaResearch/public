@@ -11,7 +11,7 @@ We will never build an AI system that undermines data privacy or produces output
 
 We (Andrew and Joao) have our own personal political beliefs. But as an organization (Verita Research), we aim to be nonpartisan, impartial, and unbiased about the information we release.
 
-## We are not the arbiters of truth
+## Truth is a process
 
 We do not decide what is true or not. Nor do we care where the truth comes from.
 
